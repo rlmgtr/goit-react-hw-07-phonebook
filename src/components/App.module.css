@@ -1,0 +1,61 @@
+@media screen and (min-width: 380px) {
+    div {
+      max-width: 380px;
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    div {
+      max-width: 768px;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    div {
+      max-width: 1024px;
+    }
+  }
+  
+  body { 
+    
+    text-align: ce;
+  }
+  
+ 
+  
+  button {
+    margin-top: 10px;
+    border-radius: 10%;
+    
+  }
+  
+  h1 {
+    text-align: center;
+    
+  }
+  
+  h2 {
+    
+    text-align: center;
+  }
+  
+  div {
+    margin: 0 auto;
+  }
+  
+  .hope {
+    text-align: center;
+  }
+  
+  .resetButton {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .input {
+    max-width: 50px;
+  }
